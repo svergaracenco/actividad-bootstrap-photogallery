@@ -1,0 +1,42 @@
+body {font-family: 'Roboto', sans-serif;}
+.logo {
+	max-height: 25px;
+}
+.banner {
+	background-image: url(../images/header.jpg); 
+	background-size: cover; 
+	height:auto;
+	padding: 50px;
+	box-sizing: border-box;
+	color: white;
+	text-align: center;
+}
+.navbar {
+    margin-bottom: 0px;
+}
+h1 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+}
+button {
+	padding: 10px;
+	border-radius: 5px;
+	color: black;
+}
+.padding {
+	padding:  20px;
+	box-sizing: border-box;
+}
+.thumbnail {
+    border: 3px solid #ddd;
+    border-radius: 2px;
+	text-align: center;
+}
+
+.panel-body p {
+	text-align: center;
+}
+
+.panel-footer  {
+	text-align: center;
+}
